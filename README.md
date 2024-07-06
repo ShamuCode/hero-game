@@ -13,7 +13,7 @@ You are a character who must collect as many coins as possible in 60 seconds.
 - New modes will be added soon
 
 ## Play
-- Once the code has been launched (see **[Installing the code](https://github.com/ShamuCode/hero-game/edit/main/README.md#installing-the-code)**, use the arrow keys or the ZQSD keys on the keyboard to collect the coins.
+- Once the code has been launched (see **[Installing the code](https://github.com/ShamuCode/hero-game?tab=readme-ov-file#installing-the-code)**, use the arrow keys or the ZQSD keys on the keyboard to collect the coins.
 
 ## Installing the code
 - Install Python at https://www.python.org/
