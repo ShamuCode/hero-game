@@ -1,3 +1,7 @@
+<p align="center">
+  <a><img width="400" src="https://raw.githubusercontent.com/ShamuCode/hero-game/main/Ressources/picture.png" /></a>
+</p>
+
 # Hero Game
 Following an internship to improve my level in Python, I created this little game. The principle is simple:
 
